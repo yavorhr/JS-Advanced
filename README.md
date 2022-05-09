@@ -4,7 +4,7 @@
 
 ## Course Description
 
-In the [JS Advanced](https://softuni.bg/trainings/3010/java-oop-october-2020) course participants will gain in-depth knowledge of JavaScript, such as **syntax basics**, **working with arrays**, **matrices**, **objects**, **classes**, and writing **functions**. During the course it will be focused on more complex concepts such as **function context**, **explicit binding**, **event loop**. The course includes many exercies, which points to develop the **algorithmic thinking**. After successfully completing this course, the participants will have the opportunity to work with the **DOM tree**, to manipulate it and to work with **"events"**. The **functional and OOP approaches** to JavaScript programming will be considered, and concepts such as **inheritance**, **object composition** and **prototype** chain will be studied as well.
+In the [JS Advanced](https://softuni.bg/trainings/3347/js-advanced-may-2021#lesson-26909) course participants will gain in-depth knowledge of JavaScript, such as **syntax basics**, **working with arrays**, **matrices**, **objects**, **classes**, and writing **functions**. During the course it will be focused on more complex concepts such as **function context**, **explicit binding**, **event loop**. The course includes many exercies, which points to develop the **algorithmic thinking**. After successfully completing this course, the participants will have the opportunity to work with the **DOM tree**, to manipulate it and to work with **"events"**. The **functional and OOP approaches** to JavaScript programming will be considered, and concepts such as **inheritance**, **object composition** and **prototype** chain will be studied as well.
 
 ## Acquired skills
 
